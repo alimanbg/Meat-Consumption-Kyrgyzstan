@@ -1,0 +1,11 @@
+,Age,Gender,Are you worried about the impact of meat consumption on the environment?,Do you want to decrease your meat consumption?,Frequency
+0,0-18,Female,2.0,0.0,3.0
+1,0-18,Male,2.0,2.0,5.0
+2,18-25,Female,1.0023529411764707,0.3835294117647059,3.533333333333333
+3,18-25,Male,1.0,0.5,6.0
+4,26-35,Female,0.5,1.5,5.0
+5,26-35,Male,,,
+6,36-45,Female,1.4,0.9333333333333333,4.466666666666667
+7,36-45,Male,0.0,0.0,7.0
+8,46-60,Female,0.0,0.0,7.0
+9,46-60,Male,0.0,0.0,7.0
